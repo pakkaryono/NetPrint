@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Booking Lab Komputer SMKN 1 Songgom",
+  "description": "Aplikasi booking komputer modern laboratorium komputer SMK Negeri 1 Songgom dengan visualisasi topologi lab real-time, billing kasir & cetak dokumen, validasi QR NISN, grafik keuangan, serta integrasi Supabase SQL Editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
